@@ -8,7 +8,7 @@ $chmod +x *
 $./Installer.sh
 ```
 
-# [ Installation 
+
 
 
 
