@@ -1,2 +1,4 @@
 # Easy-metasploit-Installer
-#By Shanuka Shehan
+# Installation
+
+#git clone https://github.com/ShanukaOfficial/Easy-metasploit-Installer
